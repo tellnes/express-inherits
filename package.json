@@ -1,0 +1,26 @@
+{
+  "name": "express-inherits",
+  "version": "0.0.0",
+  "description": "Inherits settings from parent app when mounting express apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "~3.4.6"
+  },
+  "keywords": [
+    "express",
+    "inherits",
+    "propagate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/express-inherits.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tellnes/express-inherits/issues"
+  }
+}
