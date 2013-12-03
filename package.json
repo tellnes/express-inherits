@@ -1,6 +1,6 @@
 {
   "name": "express-inherits",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Inherits settings from parent app when mounting express apps.",
   "main": "index.js",
   "scripts": {
