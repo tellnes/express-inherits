@@ -1,5 +1,7 @@
 # Express Inherits
 
+[![build status](https://secure.travis-ci.org/tellnes/express-inherits.png)](http://travis-ci.org/tellnes/express-inherits)
+
 Inherits settings from parent app when mounting express apps. Please se
 [visionmedia/express#1637](https://github.com/visionmedia/express/issues/1637)
 for details.
